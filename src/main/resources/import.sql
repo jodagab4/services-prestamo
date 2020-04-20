@@ -1,0 +1,10 @@
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 1, '30/4/2020',30,1000,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 2, '30/5/2020',30,900,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 3, '30/6/2020',30,800,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 4, '30/7/2020',30,700,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 5, '30/8/2020',30,600,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 6, '30/9/2020',30,500,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 7, '30/10/2020',30,400,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 8, '30/11/2020',30,300,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 9, '30/12/2020',30,200,17,100,'false');
+INSERT INTO tb_cronograma_prestamos(nro_prestamo, cuota, fecha_vencimiento, dias, capital, interes, importe_cuota, pagado) VALUES(20001, 10,'30/01/2021',30,100,17,100,'false');
